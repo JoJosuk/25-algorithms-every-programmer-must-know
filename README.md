@@ -1,6 +1,8 @@
 # 25 algos every programmer should know
 
-Linear Search Binary Search
+Linear Search
+
+Binary Search
 
 Bubble Sort
 
